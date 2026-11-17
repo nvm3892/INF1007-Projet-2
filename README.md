@@ -1,6 +1,6 @@
 # INF1007 — Projet 2 : de la donnée à l'application
 
-> Équipe : _Prénom Nom_ et _Prénom Nom_ — Session A2026
+> Équipe :Lana Fadlallah et Aslam Ainous — Session A2026
 
 ## Description
 
